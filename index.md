@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Korean_NLP_Visual Pages!
 
 You can use the [editor on GitHub](https://github.com/minjimango/Korean_NLP_Visual_readthedocs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
